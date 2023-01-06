@@ -12,6 +12,6 @@ An AI is training itself how to play the game "Flappy Bird". The way it works is
 * random
 
 ## Instructions
-* Download  ```config-feedforward.txt``` and ```flappy.py``` 
+* Download  ```config-feedforward.txt```, ```imgs``` folder and ```flappy.py``` 
 * run ```flappy.py```
 * That's it! Now watch how the algorithm works!
